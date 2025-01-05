@@ -1,6 +1,7 @@
 ## Hi, I'm Tyler!
 
-Softawre Engineer sharing about my journey and learnings in tech
+Software Engineer sharing about my journey and learnings in tech
 <br/>
-Went through Don't Panic Labs' "Pathways Program" to enhance my abilities.
+Yuhhh
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylernpc)](https://github.com/anuraghazra/github-readme-stats)
