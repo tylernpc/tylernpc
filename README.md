@@ -11,11 +11,3 @@ I'm currently working on a(n) airbnb replica utilizing angular<br>I'm looking to
 ![](https://github-readme-stats.vercel.app/api?username=tylernpc&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tylernpc&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylernpc&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tylernpc&limit=5&theme=swift&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tylernpc&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
