@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Tyler:
+# 👨🏻‍💻 Hi, I'm Tyler:
 currently a software developer in progress of becoming a software engineer, below are things i've had experience with
 
 # 💻 Tech Stack:
